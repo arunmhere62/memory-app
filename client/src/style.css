@@ -1,0 +1,28 @@
+.buttonStyle {
+  background-color: #54bde7;
+  border: 0;
+  border-radius: 5px;
+  padding: 4px 15px;
+  margin-bottom: 10px;
+}
+.inputStyle {
+  margin-bottom: 10px;
+  border-radius: 5px;
+  padding: 4px 10px;
+  width: 90%;
+}
+.deleteBtn {
+  background-color: rgb(245, 11, 3);
+  border: 0;
+  border-radius: 5px;
+  padding: 4px 15px;
+  margin-bottom: 10px;
+}
+.card {
+  background-color: rgb(235, 249, 255) !important;
+}
+.form-style {
+  background-color: #e6f1f5;
+  padding: 20px 10px;
+  border-radius: 10px;
+}
